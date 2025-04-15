@@ -1,0 +1,6 @@
+@UniMatchMP_api_HostAddress = http://localhost:5096
+
+GET {{UniMatchMP_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
