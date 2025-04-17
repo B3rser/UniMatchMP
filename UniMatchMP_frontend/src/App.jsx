@@ -5,7 +5,7 @@ import { Components } from './pages/Components';
 import { SnackbarProvider } from 'notistack';
 
 import './App.css';
-import { FeedbackMessage } from './componets/feedbackMessage';
+import { FeedbackMessage } from './componets/FeedbackMessage';
 
 
 function App() {

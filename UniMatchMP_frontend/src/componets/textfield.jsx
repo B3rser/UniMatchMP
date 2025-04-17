@@ -1,6 +1,6 @@
 import React from 'react'
 
-export function textfield() {
+export function Textfield() {
     return (
         <div>textfield</div>
     )

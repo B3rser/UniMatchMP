@@ -1,6 +1,6 @@
 import React from 'react'
 
-export function tabs() {
+export function Tabs() {
   return (
     <div>tabs</div>
   )

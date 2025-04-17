@@ -1,6 +1,6 @@
 import React from 'react'
 
-export function button() {
+export function Button() {
     return (
         <div>button</div>
     )
